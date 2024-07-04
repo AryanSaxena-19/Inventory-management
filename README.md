@@ -1,4 +1,4 @@
-# InventoryManagementSystem
+# Inventory Management System
 The Inventory Management System is a Software application developed using Java SE that provides an easy way to track products, 
 suppliers, customer's, as well as purchase and sales information. The system also records the stock currently available in the
 store, ensuring efficient inventory control and management.
